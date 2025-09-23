@@ -1,2 +1,2 @@
-Personal github pages test
+# GitHub Pages
 
